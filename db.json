@@ -19,7 +19,8 @@
             {
               "type": "Bikes model 27X",
               "description": "100 Bikes model 27X",
-              "volume": "100"
+              "volume": "100",
+              "image": "./static/bike1.jpg"
             }
           ],
           "mode": "air",
